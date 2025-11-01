@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MRITARI/PROFILE-README/refs/heads/main/profile.png" alt="Profile" width="500" height="700">
+<img src="https://i.imgur.com/N6Z1yoU.png" alt="Profile" width="500" height="700">
 
 ---
 
