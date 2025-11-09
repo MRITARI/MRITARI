@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MRITARI/MRITARI/refs/heads/main/github-header-banner.png" alt="Profile" width="1000" height="1200">
+<img src="https://raw.githubusercontent.com/MRITARI/MRITARI/refs/heads/main/Untitled.gif" alt="Profile" width="1000" height="1200">
 
 ## Projects
 
