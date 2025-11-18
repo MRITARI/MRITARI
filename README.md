@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/MRITARI/MRITARI/refs/heads/main/cog1.png" alt="Profile" width="300" height="300">
+  <img src="https://i.imgur.com/xkxpJlH.png" alt="Profile" width="300" height="300">
 
   <br><br>
   <img src="https://i.imgur.com/KR8Z5Pl.png" alt="divider">
