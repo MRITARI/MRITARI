@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://i.imgur.com/xkxpJlH.png" alt="Profile" width="300" height="300">
+  <img src="https://i.imgur.com/xkxpJlH.png" alt="Profile" width="250" height="250">
 
   <br><br>
   <img src="https://i.imgur.com/KR8Z5Pl.png" alt="divider">
