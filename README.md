@@ -28,7 +28,7 @@
  ### “There is no truth in flesh, only betrayal.”  
  “There is no strength in flesh, only weakness.”  
  “There is no constancy in flesh, only decay.”  
- “There is no certainty in flesh but death.”*  
+ “There is no certainty in flesh but death.”
  
  — **Credo Omnissiah**
  
