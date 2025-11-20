@@ -54,7 +54,7 @@
    <span>
       <img src="https://cdn-icons-png.flaticon.com/512/9810/9810020.png" width="30">
       &nbsp;
-      <a href="href="mailto:contact@mritari.com">Email</a>
+      <a href="mailto:contact@mritari.com">Email</a>
    </span>
   </div>
   
