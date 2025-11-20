@@ -29,7 +29,7 @@
   </p>
 
   <img src="https://i.imgur.com/KR8Z5Pl.png" alt="divider">
-
+  <h2>Contact</h2>
   <br>
   <div>
     <span>
@@ -51,6 +51,12 @@
       &nbsp;
       <a href="https://signal.me/#eu/2ZE8DOSQSytRC8UzxWbNZc02dtQR8PhmKECp84xRacwFljJ4G3ZGtrUAywYP2Ixh">Signal</a>
    </span>
+   <span>
+      <img src="https://cdn-icons-png.flaticon.com/512/9810/9810020.png" width="30">
+      &nbsp;
+      <a href="href="mailto:contact@mritari.com">Email</a>
+   </span>
   </div>
+  
 
 </div>
