@@ -1,4 +1,4 @@
 {
-  "message": "Kehitys käynnissä palaamme pian",
-  "level": "success"
+  "message": "Vian syytä ei tiedetä",
+  "level": "error"
 }
