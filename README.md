@@ -13,9 +13,9 @@
 
   <h2>Just a curious mind with a keyboard</h2>
   <p>
-    • 2008 born tech enthusiast currently studying Information and Communications Technology<br>
-    • Learning coding, networking and security one step at a time<br>
-    • Planning to study for a degree to become a Security Engineer in 2027
+    • Tech enthusiast currently studying Information and Communications Technology<br>
+    • Learning coding, networking and security<br>
+    • Planning to pursue a Bachelor of Engineering in 2027
   </p>
 
   <img src="https://i.imgur.com/KR8Z5Pl.png" alt="divider">
