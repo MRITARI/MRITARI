@@ -8,7 +8,7 @@
   <h2>Projects</h2>
   <p>
     • <strong>SMRS-Handler</strong> - multi reverse-shell handler (Python)<br>
-    • <strong>R6-Randomizer</strong> - rainbow six siege randomizer (C#)
+    • <strong>R6-Randomizer</strong> - rainbow six siege randomizer (C#)<br>
     • <strong>mritari.com</strong> - personal site (html)
   </p>
 
