@@ -9,9 +9,10 @@
   <p>
     • <strong>SMRS-Handler</strong> - multi reverse-shell handler (Python)<br>
     • <strong>R6-Randomizer</strong> - rainbow six siege randomizer (C#)
+    • <strong>mritari.com</strong> - personal site (html)
   </p>
 
-  <h2>Just a curious mind with a keyboard</h2>
+  <h2>About</h2>
   <p>
     • Tech enthusiast currently studying Information and Communications Technology<br>
     • Learning coding, networking and security<br>
