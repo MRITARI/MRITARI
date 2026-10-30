@@ -18,7 +18,12 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Networking-8B0000?style=flat-square&logo=cisco&logoColor=white" alt="Networking">
   <img src="https://img.shields.io/badge/Cybersecurity-000000?style=flat-square&logo=kalilinux&logoColor=white" alt="Cybersecurity">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"><br>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" onclick="window.location.href='https://instagram.com/mritari101'">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
+  <img src="https://img.shields.io/badge/Signal-3A76F0?style=flat-square&logo=signal&logoColor=white" alt="Signal">
+  <img src="https://img.shields.io/badge/Email-contact@mritari.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
 
   ---
 
