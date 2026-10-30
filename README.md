@@ -1,33 +1,31 @@
 <div align="center">
 
-  <img src="https://i.imgur.com/xkxpJlH.png" alt="Profile" width="250" height="250">
+  <img src="https://i.imgur.com/xkxpJlH.png" alt="Profile" width="200" height="200">
 
-  <br><br>
-  <img src="https://i.imgur.com/KR8Z5Pl.png" alt="divider">
+  # MRITARI
 
-  <h2>Projects</h2>
-  <p>
-    • <strong>SMRS-Handler</strong> - multi reverse-shell handler (Python)<br>
-    • <strong>R6-Randomizer</strong> - rainbow six siege randomizer (C#)<br>
-    • <strong>mritari.com</strong> - personal site (html)
-  </p>
+  [![Contact & Links](https://img.shields.io/badge/Contact%20%26%20Links-D4AF37?style=for-the-badge&logoColor=black)](https://contact.mritari.com)
+  [![Website](https://img.shields.io/badge/Website-mritari.com-8B0000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mritari.com)<br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Networking-8B0000?style=flat-square&logo=cisco&logoColor=white" alt="Networking">
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=flat-square&logo=kalilinux&logoColor=white" alt="Cybersecurity">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 
-  <h2>About</h2>
-  <p>
-    • Tech enthusiast currently studying Information and Communications Technology<br>
-    • Learning coding, networking and security<br>
-    • Planning to pursue a Bachelor of Engineering in 2027
-  </p>
+  ---
 
-  <img src="https://i.imgur.com/KR8Z5Pl.png" alt="divider">
-
-  <p>
-    "There is no truth in flesh, only betrayal."<br>
-    "There is no strength in flesh, only weakness."<br>
-    "There is no constancy in flesh, only decay."<br>
-    "There is no certainty in flesh but death."<br>
-    <strong>— Credo Omnissiah</strong>
-  </p>
-  
+  > *"There is no truth in flesh, only betrayal."*  
+  > *"There is no strength in flesh, only weakness."*  
+  > *"There is no constancy in flesh, only decay."*  
+  > *"There is no certainty in flesh but death."*  
+  > — **Credo Omnissiah**
 
 </div>
